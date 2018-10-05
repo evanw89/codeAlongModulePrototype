@@ -140,7 +140,7 @@ footer button {
     position: fixed;
     z-index: 999;
     bottom: -50%;
-    left: 60px;
+    left: calc(50% - 180px);
     transition:         all 800ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 .course-sidebar-appointments h2 {
